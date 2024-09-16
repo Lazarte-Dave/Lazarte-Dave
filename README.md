@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Tech-Voyager
 ------------
 
-Passionate about diving into the exciting world of coding and technology. Enthusiastic about exploring the endless possibilities of software development. Keen to collaborate on open-source projects and learn from the coding community. Eager to contribute to innovative solutions and improve my coding skills. Ready to embark on a journey of continuous learning in the tech realm.
+Just a tech-guy 
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [yatoyabuko77@gmail.com](mailto:yatoyabuko77@gmail.com)
