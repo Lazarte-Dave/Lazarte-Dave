@@ -8,7 +8,7 @@ Just a tech-guy, striving to understand what success is
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [yatoyabuko77@gmail.com](mailto:yatoyabuko77@gmail.com)
-* ⚡  Tech-Voyager
+* ⚡  Willing to learn
 
 ### Skills
 
